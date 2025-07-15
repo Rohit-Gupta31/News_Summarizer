@@ -28,6 +28,19 @@ A deep learning-based news summarization project using the facebook/bart-large-x
 
 ---
 
+##  Evaluation Metrics
+
+The model's summarization performance was evaluated using ROUGE scores on the validation/test set. These metrics reflect how closely the generated summaries matched human-written ones:
+
+- **ROUGE-1**    : 0.4045
+- **ROUGE-2**    : 0.1790
+- **ROUGE-L**    : 0.2750
+- **ROUGE-LSum** : 0.3747
+
+> ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a standard set of metrics for evaluating automatic summarization models by comparing generated summaries with reference summaries.
+
+---
+
 ##  Setup and Installation
 
 Follow these steps to set up and run the project:
