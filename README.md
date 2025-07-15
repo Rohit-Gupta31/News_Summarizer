@@ -34,8 +34,8 @@ Follow these steps to set up and run the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/News-Summarization-Model.git
-cd News-Summarization-Model
+git clone https://github.com/Rohit-Gupta31/News_Summarizer.git
+cd News_Summarizer
 
 # Install required libraries
 pip install transformers datasets evaluate scikit-learn tqdm
